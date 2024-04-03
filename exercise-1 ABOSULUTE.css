@@ -1,0 +1,55 @@
+h1{
+                    font-size: 17px;
+                    font-family: roboto,arial;
+                    text-decoration-line: underline;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: center;
+                }
+
+                body{
+                    height: 3000px;
+                }
+
+                .z1{
+                    background-color: gray;
+                    width: 320px;
+                    height: 180px;
+                    position: fixed;
+                    right: 0;
+                    bottom: 0;
+                }
+
+                .x1{
+                    
+                    background-color:black;
+                    color: white;
+                    width: 20px;
+                    height: 20px;
+                    border-radius: 50px;
+                    position: absolute;
+                    right: 240px;
+                    font-size: 10px;
+                    border:none;
+                }
+
+                .x2{
+                    background-color: lightblue;
+                    width: 400px;
+                    height: 250px;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: center;
+                    
+                }
+
+                .x-main{
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: center;
+                    
+                }
+                
+                .q1{
+                    margin-right: -2px;
+                }
